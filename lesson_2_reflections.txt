@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: Git initializes the directory to be tracked as a git repository. Sets up the initialization required for a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: Stating area is way by which we can group logical changes to a single commit.
