@@ -1,3 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Answer: Viewing a diff shows the changes between the files, so the "bug", i.e, the line added by mistake can be identified.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 Answer: Can view all the changes that has been done to the file.
@@ -17,4 +19,4 @@ How might using version control make you more confident to make changes that cou
 Answer: I can always get back to a stable version.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-Answer: Develop 
+Answer: Create a repository and start commiting source code.

@@ -3,3 +3,19 @@ Answer: Git initializes the directory to be tracked as a git repository. Sets up
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Answer: Stating area is way by which we can group logical changes to a single commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Answer: Can add all the changes to files related to a logical change. Review to make sure that the changes are correct.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer: Branches can be helpful to work on some feature that might/might not be the part of the master branch in the future.
+
+How do the diagrams help you visualize the branch structure?
+Answer: They present a graphical representation of the branches and commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: All the commits after the two branches diverged are merged sorted by the time stamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: Pros: Git can automatically merge when there is no conflict.
+Cons: Cannot resolve if the same area of code is changed by the branches being merged.
